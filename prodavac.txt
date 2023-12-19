@@ -1,0 +1,3 @@
+prodavac1|prodavac1|Pera|Peric
+prodavac2|prodavac2|Sima|Simic
+prodavac3|prodavac3|Nikola|Nikolic
